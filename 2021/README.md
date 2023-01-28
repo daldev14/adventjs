@@ -13,9 +13,9 @@
 | 03  | 🎅 El Grinch quiere fastidiar la Navidad |     🟠     | [show](https://2021.adventjs.dev/challenges/03) | [Code](./2021/Challenge-03/) |
 | 04  | 🎄 ¡Es hora de poner la navidad en casa! |     🟠     | [show](https://2021.adventjs.dev/challenges/04) | [Code](./2021/Challenge-04/) |
 | 05  |  🎁 Contando los días para los regalos   |     🟢     | [show](https://2021.adventjs.dev/challenges/05) | [Code](./2021/Challenge-05/) |
+| 06  |    🧮 Rematando los exámenes finales     |     🟠     | [show](https://2021.adventjs.dev/challenges/06) | [Show](./2021/Challenge-06/) |
 
-<!-- | 06  |                  Rematando los exámenes finales              |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [Show](./2021/Challenge-01/) |
-| 07  |                     Buscando en el almacén...                     |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [Show](./2021/Challenge-01/) |
+<!-- | 07  |                     Buscando en el almacén...                     |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [Show](./2021/Challenge-01/) |
 | 08  |                  La locura de las criptomonedas                   |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [Show](./2021/Challenge-01/) |
 | 09  |                  Agrupando cosas automáticamente                  |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [Show](./2021/Challenge-01/) |
 | 10  |                       La máquina del cambio                       |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [Show](./2021/Challenge-01/) |

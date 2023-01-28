@@ -17,6 +17,7 @@ Este repositorio contiene las soluciones a los retos propuestos por [midudev](ht
 | 03  | 🎅 El Grinch quiere fastidiar la Navidad |       🟠       | [show](https://2021.adventjs.dev/challenges/03) | [Code](./2021/Challenge-03/) |
 | 04  | 🎄 ¡Es hora de poner la navidad en casa! |       🟠       | [show](https://2021.adventjs.dev/challenges/04) | [Code](./2021/Challenge-04/) |
 | 05  |  🎁 Contando los días para los regalos   |       🟢       | [show](https://2021.adventjs.dev/challenges/05) | [Code](./2021/Challenge-05/) |
+| 06  |    🧮 Rematando los exámenes finales     |       🟠       | [show](https://2021.adventjs.dev/challenges/06) | [Show](./2021/Challenge-06/) |
 
 </details>
 
