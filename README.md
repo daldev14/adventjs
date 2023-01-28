@@ -16,9 +16,9 @@ Este repositorio contiene las soluciones a los retos propuestos por [midudev](ht
 | 02  | 🎅 ¡Ayuda al elfo a listar los regalos!  |       🟢       | [Show](./2021/Challenge-02/) |
 | 03  | 🎅 El Grinch quiere fastidiar la Navidad |       🟠       | [Show](./2021/Challenge-03/) |
 | 04  | 🎄 ¡Es hora de poner la navidad en casa! |       🟠       | [Show](./2021/Challenge-04/) |
+| 05  |  🎁 Contando los días para los regalos   |       🟢       | [Show](./2021/Challenge-05/) |
 
-<!-- | 05  |                Contando los días para los regalos                 |       🟢       | [Show](./2021/Challenge-01/) |
-| 06  |                  Rematando los exámenes finales                   |       🟠       | [Show](./2021/Challenge-01/) |
+<!-- | 06  |                  Rematando los exámenes finales                   |       🟠       | [Show](./2021/Challenge-01/) |
 | 07  |                     Buscando en el almacén...                     |       🟠       | [Show](./2021/Challenge-01/) |
 | 08  |                  La locura de las criptomonedas                   |       🟠       | [Show](./2021/Challenge-01/) |
 | 09  |                  Agrupando cosas automáticamente                  |       🔴       | [Show](./2021/Challenge-01/) |
