@@ -14,9 +14,9 @@
 | 04  | 🎄 ¡Es hora de poner la navidad en casa! |     🟠     | [show](https://2021.adventjs.dev/challenges/04) | [code](./Challenge-04/) |
 | 05  |  🎁 Contando los días para los regalos   |     🟢     | [show](https://2021.adventjs.dev/challenges/05) | [code](./Challenge-05/) |
 | 06  |    🧮 Rematando los exámenes finales     |     🟠     | [show](https://2021.adventjs.dev/challenges/06) | [code](./Challenge-06/) |
+| 07  |       🏪 Buscando en el almacén...       |     🟠     | [show](https://2021.adventjs.dev/challenges/07) | [code](./Challenge-07/) |
 
-<!-- | 07  |                     Buscando en el almacén...                     |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
-| 08  |                  La locura de las criptomonedas                   |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
+<!-- | 08  |                  La locura de las criptomonedas                   |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 09  |                  Agrupando cosas automáticamente                  |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 10  |                       La máquina del cambio                       |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 11  |           ¿Vale la pena la tarjeta fidelidad del cine?            |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
