@@ -30,7 +30,7 @@ console.log(ovejasFiltradas);
 
 Recuerda. **Debe contener las dos letras 'a' y 'n' en el nombre**. No cuentes ovejas que sólo tenga una de las letras, debe tener ambas.
 
-## :space_invader: Solutions
+## :space_invader: Solución
 
 <!-- | Langueje   |          Source           | Test |
 | :--------- | :-----------------------: | ---: |
