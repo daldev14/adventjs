@@ -8,12 +8,12 @@
 
 ## 🕹️ Challenges
 
-|  #  |              Challenge              | Difficulty[^1] |            Source            |
-| :-: | :---------------------------------: | :------------: | :--------------------------: |
-| 01  | :sheep: Contando ovejas para dormir |       🟢       | [Show](./2021/Challenge-01/) |
+|  #  |                Challenge                | Difficulty[^1] |            Source            |
+| :-: | :-------------------------------------: | :------------: | :--------------------------: |
+| 01  |     🐑 Contando ovejas para dormir      |       🟢       | [Show](./2021/Challenge-01/) |
+| 02  | 🎅 ¡Ayuda al elfo a listar los regalos! |       🟢       | [Show](./2021/Challenge-02/) |
 
-<!-- | 02  |               ¡Ayuda al elfo a listar los regalos!                |       🟢       | [Show](./2021/Challenge-01/) |
-| 03  |               El Grinch quiere fastidiar la Navidad               |       🟠       | [Show](./2021/Challenge-01/) |
+<!-- | 03  |               El Grinch quiere fastidiar la Navidad               |       🟠       | [Show](./2021/Challenge-01/) |
 | 04  |               ¡Es hora de poner la navidad en casa!               |       🟠       | [Show](./2021/Challenge-01/) |
 | 05  |                Contando los días para los regalos                 |       🟢       | [Show](./2021/Challenge-01/) |
 | 06  |                  Rematando los exámenes finales                   |       🟠       | [Show](./2021/Challenge-01/) |
