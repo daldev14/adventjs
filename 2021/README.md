@@ -6,14 +6,14 @@
 
 **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
-|  #  |                Challenge                 | Difficulty |                   Description                   |           Solution           |
-| :-: | :--------------------------------------: | :--------: | :---------------------------------------------: | :--------------------------: |
-| 01  |      🐑 Contando ovejas para dormir      |     🟢     | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
-| 02  | 🎅 ¡Ayuda al elfo a listar los regalos!  |     🟢     | [show](https://2021.adventjs.dev/challenges/02) | [code](./2021/Challenge-02/) |
-| 03  | 🎅 El Grinch quiere fastidiar la Navidad |     🟠     | [show](https://2021.adventjs.dev/challenges/03) | [code](./2021/Challenge-03/) |
-| 04  | 🎄 ¡Es hora de poner la navidad en casa! |     🟠     | [show](https://2021.adventjs.dev/challenges/04) | [code](./2021/Challenge-04/) |
-| 05  |  🎁 Contando los días para los regalos   |     🟢     | [show](https://2021.adventjs.dev/challenges/05) | [code](./2021/Challenge-05/) |
-| 06  |    🧮 Rematando los exámenes finales     |     🟠     | [show](https://2021.adventjs.dev/challenges/06) | [code](./2021/Challenge-06/) |
+|  #  |                Challenge                 | Difficulty |                   Description                   |        Solution         |
+| :-: | :--------------------------------------: | :--------: | :---------------------------------------------: | :---------------------: |
+| 01  |      🐑 Contando ovejas para dormir      |     🟢     | [show](https://2021.adventjs.dev/challenges/01) | [code](./Challenge-01/) |
+| 02  | 🎅 ¡Ayuda al elfo a listar los regalos!  |     🟢     | [show](https://2021.adventjs.dev/challenges/02) | [code](./Challenge-02/) |
+| 03  | 🎅 El Grinch quiere fastidiar la Navidad |     🟠     | [show](https://2021.adventjs.dev/challenges/03) | [code](./Challenge-03/) |
+| 04  | 🎄 ¡Es hora de poner la navidad en casa! |     🟠     | [show](https://2021.adventjs.dev/challenges/04) | [code](./Challenge-04/) |
+| 05  |  🎁 Contando los días para los regalos   |     🟢     | [show](https://2021.adventjs.dev/challenges/05) | [code](./Challenge-05/) |
+| 06  |    🧮 Rematando los exámenes finales     |     🟠     | [show](https://2021.adventjs.dev/challenges/06) | [code](./Challenge-06/) |
 
 <!-- | 07  |                     Buscando en el almacén...                     |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 08  |                  La locura de las criptomonedas                   |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
