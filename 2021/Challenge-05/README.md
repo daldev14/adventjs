@@ -1,7 +1,5 @@
 # 🎁 Contando los días para los regalos
 
-> ¡Qué ganas de abrir los regalos 🎁! Estoy tan nervioso que no paro de contar los días que faltan 🤣. ¿Me ayudas creando un programita? ¡Venga!
-
 Con la emoción, ya estamos empezando a **contar los días del calendario hasta el 25 de diciembre** 📆.
 
 Para ayudar a esto, vamos a crear una función que pasándole una instancia de `Date` nos diga el número de días que faltan.

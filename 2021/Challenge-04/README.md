@@ -1,7 +1,5 @@
 # 🎄 ¡Es hora de poner la navidad en casa!
 
-> Creo que ya podemos sacar el gorro navideño, el turrón... ¡Y el árbol de navidad! 🎄 Vamos a montarlo con JavaScript.
-
 ¡Es hora de poner el árbol de navidad en casa! 🎄
 
 Para ello vamos a crear una función que recibe la altura del árbol, que será un entero positivo del 1 a, como máximo, 100.
