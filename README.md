@@ -1,8 +1,8 @@
-# Adventjs Solutions
+# AdventJS Solutions
 
 Este repositorio contiene las soluciones a los retos propuestos por [midudev](https://github.com/midudev) en la web [adventJS](https://adventjs.dev/es).
 
-## Adventjs 2021
+## AdventJS 2021
 
 <details open>
 
