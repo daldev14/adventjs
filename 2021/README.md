@@ -6,19 +6,19 @@
 
 **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
-|  #  |                Challenge                 | Difficulty |                   Description                   |        Solution         |
-| :-: | :--------------------------------------: | :--------: | :---------------------------------------------: | :---------------------: |
-| 01  |      🐑 Contando ovejas para dormir      |     🟢     | [show](https://2021.adventjs.dev/challenges/01) | [code](./Challenge-01/) |
-| 02  | 🎅 ¡Ayuda al elfo a listar los regalos!  |     🟢     | [show](https://2021.adventjs.dev/challenges/02) | [code](./Challenge-02/) |
-| 03  | 🎅 El Grinch quiere fastidiar la Navidad |     🟠     | [show](https://2021.adventjs.dev/challenges/03) | [code](./Challenge-03/) |
-| 04  | 🎄 ¡Es hora de poner la navidad en casa! |     🟠     | [show](https://2021.adventjs.dev/challenges/04) | [code](./Challenge-04/) |
-| 05  |  🎁 Contando los días para los regalos   |     🟢     | [show](https://2021.adventjs.dev/challenges/05) | [code](./Challenge-05/) |
-| 06  |    🧮 Rematando los exámenes finales     |     🟠     | [show](https://2021.adventjs.dev/challenges/06) | [code](./Challenge-06/) |
-| 07  |       🏪 Buscando en el almacén...       |     🟠     | [show](https://2021.adventjs.dev/challenges/07) | [code](./Challenge-07/) |
-| 08  |    💰 La locura de las criptomonedas     |     🟠     | [show](https://2021.adventjs.dev/challenges/08) | [code](.Challenge-08/)  |
+|  #  |                Challenge                 | Difficulty |                   Description                   |           Solution           |
+| :-: | :--------------------------------------: | :--------: | :---------------------------------------------: | :--------------------------: |
+| 01  |      🐑 Contando ovejas para dormir      |     🟢     | [show](https://2021.adventjs.dev/challenges/01) |   [code](./Challenge-01/)    |
+| 02  | 🎅 ¡Ayuda al elfo a listar los regalos!  |     🟢     | [show](https://2021.adventjs.dev/challenges/02) |   [code](./Challenge-02/)    |
+| 03  | 🎅 El Grinch quiere fastidiar la Navidad |     🟠     | [show](https://2021.adventjs.dev/challenges/03) |   [code](./Challenge-03/)    |
+| 04  | 🎄 ¡Es hora de poner la navidad en casa! |     🟠     | [show](https://2021.adventjs.dev/challenges/04) |   [code](./Challenge-04/)    |
+| 05  |  🎁 Contando los días para los regalos   |     🟢     | [show](https://2021.adventjs.dev/challenges/05) |   [code](./Challenge-05/)    |
+| 06  |    🧮 Rematando los exámenes finales     |     🟠     | [show](https://2021.adventjs.dev/challenges/06) |   [code](./Challenge-06/)    |
+| 07  |       🏪 Buscando en el almacén...       |     🟠     | [show](https://2021.adventjs.dev/challenges/07) |   [code](./Challenge-07/)    |
+| 08  |    💰 La locura de las criptomonedas     |     🟠     | [show](https://2021.adventjs.dev/challenges/08) |    [code](.Challenge-08/)    |
+| 09  |    📦 Agrupando cosas automáticamente    |     🔴     | [show](https://2021.adventjs.dev/challenges/09) | [code](./Challenge-09/) |
 
-<!-- | 09  |                  Agrupando cosas automáticamente                  |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
-| 10  |                       La máquina del cambio                       |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
+<!-- | 10  |                       La máquina del cambio                       |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 11  |           ¿Vale la pena la tarjeta fidelidad del cine?            |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 12  |              La ruta perfecta para dejar los regalos              |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 13  |                  Envuelve regalos con asteriscos                  |       🟢       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |

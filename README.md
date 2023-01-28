@@ -20,6 +20,7 @@ Este repositorio contiene las soluciones a los retos propuestos por [midudev](ht
 | 06  |    🧮 Rematando los exámenes finales     |       🟠       | [show](https://2021.adventjs.dev/challenges/06) | [code](./2021/Challenge-06/) |
 | 07  |       🏪 Buscando en el almacén...       |       🟠       | [show](https://2021.adventjs.dev/challenges/07) | [code](./2021/Challenge-07/) |
 | 08  |    💰 La locura de las criptomonedas     |       🟠       | [show](https://2021.adventjs.dev/challenges/08) | [code](./2021/Challenge-08/) |
+| 09  |    📦 Agrupando cosas automáticamente    |       🔴       | [show](https://2021.adventjs.dev/challenges/09) | [code](./2021/Challenge-09/) |
 
 </details>
 
