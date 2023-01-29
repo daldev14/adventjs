@@ -23,6 +23,7 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 | 07  |       🏪 Buscando en el almacén...       |       🟠       | [show](https://2021.adventjs.dev/challenges/07) | [code](./2021/Challenge-07/) |
 | 08  |    💰 La locura de las criptomonedas     |       🟠       | [show](https://2021.adventjs.dev/challenges/08) | [code](./2021/Challenge-08/) |
 | 09  |    📦 Agrupando cosas automáticamente    |       🔴       | [show](https://2021.adventjs.dev/challenges/09) | [code](./2021/Challenge-09/) |
+| 10  |         🏦 La máquina del cambio         |       🔴       | [show](https://2021.adventjs.dev/challenges/10) | [code](./2021/Challenge-10/) |
 
 </details>
 
