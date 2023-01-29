@@ -10,7 +10,7 @@ export default function createXmasTree (height) {
 
   let arbol = ''
   let count = 1
- 	for (let i = 1; i <= height; i++) {
+  for (let i = 1; i <= height; i++) {
     const space = c.repeat(height - i)
     const hoja = a.repeat(count)
     arbol = arbol.concat(space, hoja, space, '\n')
