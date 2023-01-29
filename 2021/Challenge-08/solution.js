@@ -1,6 +1,6 @@
-export default function maxProfit(prices) {
-  let maxPrice = Math.max(...prices.slice(1))
-  let index = prices.indexOf(maxPrice)
+export default function maxProfit (prices) {
+  const maxPrice = Math.max(...prices.slice(1))
+  const index = prices.indexOf(maxPrice)
   let maxProfit = 0
 
   for (let i = 0; i < index; i++) {
