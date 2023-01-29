@@ -2,6 +2,8 @@
 
 Este repositorio contiene las soluciones a los retos propuestos por [midudev](https://github.com/midudev) en la web [adventJS](https://adventjs.dev/es).
 
+Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-the-badge&logo=replit)](https://replit.com/@Amaya-14/adventjs) 🏗️👷
+
 ## AdventJS 2021
 
 <details open>
