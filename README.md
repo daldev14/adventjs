@@ -28,6 +28,7 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 | 12  |   🚧 La ruta perfecta para dejar los regalos    |       🔴       | [show](https://2021.adventjs.dev/challenges/12) | [code](./2021/challenge-12/) |
 | 13  |       🎁 Envuelve regalos con asteriscos        |       🟢       | [show](https://2021.adventjs.dev/challenges/13) | [code](./2021/challenge-13/) |
 | 14  |          🦌 En busca del reno perdido           |       🟠       | [show](https://2021.adventjs.dev/challenges/14) | [code](./2021/challenge-14/) |
+| 15  |              🦘 El salto perfecto               |       🟠       | [show](https://2021.adventjs.dev/challenges/15) | [code](./2021/challenge-15/) |
 
 </details>
 
