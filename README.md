@@ -25,6 +25,7 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 | 09  |       📦 Agrupando cosas automáticamente        |       🔴       | [show](https://2021.adventjs.dev/challenges/09) | [code](./2021/challenge-09/) |
 | 10  |            🏦 La máquina del cambio             |       🔴       | [show](https://2021.adventjs.dev/challenges/10) | [code](./2021/challenge-10/) |
 | 11  | 💳 ¿Vale la pena la tarjeta fidelidad del cine? |       🟠       | [show](https://2021.adventjs.dev/challenges/11) | [code](./2021/challenge-11/) |
+| 12  |   🚧 La ruta perfecta para dejar los regalos    |       🔴       | [show](https://2021.adventjs.dev/challenges/12) | [code](./2021/challenge-12/) |
 
 </details>
 
