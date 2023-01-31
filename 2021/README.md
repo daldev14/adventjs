@@ -21,9 +21,9 @@
 | 11  | 💳 ¿Vale la pena la tarjeta fidelidad del cine? |     🟠     | [show](https://2021.adventjs.dev/challenges/11) | [code](./challenge-11/) |
 | 12  |   🚧 La ruta perfecta para dejar los regalos    |     🔴     | [show](https://2021.adventjs.dev/challenges/12) | [code](./challenge-12/) |
 | 13  |       🎁 Envuelve regalos con asteriscos        |     🟢     | [show](https://2021.adventjs.dev/challenges/13) | [code](./challenge-13/) |
+| 14  |          🦌 En busca del reno perdido           |     🟠     | [show](https://2021.adventjs.dev/challenges/14) | [code](./challenge-14/) |
 
-<!-- | 14  |                     En busca del reno perdido                     |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
-| 15  |                         El salto perfecto                         |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
+<!-- | 15  |                         El salto perfecto                         |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 16  |                    Descifrando los números...                     |       🟢       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 17  |            La locura de enviar paquetes en esta época             |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 18  |                El sistema operativo de Santa Claus                |       🟢       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
