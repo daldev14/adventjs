@@ -1,4 +1,4 @@
-# El sistema operativo de Santa Claus
+# 💻 El sistema operativo de Santa Claus
 
 Evelyn Belefzin 👩‍💻 está trabajando en **un sistema operativo** para ser usado en el taller de Santa Claus 🎅.
 
