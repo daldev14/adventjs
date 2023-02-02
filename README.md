@@ -33,6 +33,7 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 | 17  |   La locura de enviar paquetes en esta época    |       🔴       |                                                 |                              |
 | 18  |     💻 El sistema operativo de Santa Claus      |       🟢       | [show](https://2021.adventjs.dev/challenges/18) | [code](./2021/challenge-18/) |
 | 19  |       ¿Qué deberíamos aprender en Platzi?       |       🟠       | [show](https://2021.adventjs.dev/challenges/19) | [code](./2021/challenge-19/) |
+| 20  |        ✉️ ¿Una carta de pangramas? ¡QUÉ!        |       🟢       | [show](https://2021.adventjs.dev/challenges/20) | [code](./2021/challenge-20/) |
 
 </details>
 
