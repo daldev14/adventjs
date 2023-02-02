@@ -34,6 +34,7 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 | 18  |     💻 El sistema operativo de Santa Claus      |       🟢       | [show](https://2021.adventjs.dev/challenges/18) | [code](./2021/challenge-18/) |
 | 19  |       ¿Qué deberíamos aprender en Platzi?       |       🟠       | [show](https://2021.adventjs.dev/challenges/19) | [code](./2021/challenge-19/) |
 | 20  |        ✉️ ¿Una carta de pangramas? ¡QUÉ!        |       🟢       | [show](https://2021.adventjs.dev/challenges/20) | [code](./2021/challenge-20/) |
+| 21  |           🛣️ La ruta con los regalos            |       🔴       | [show](https://2021.adventjs.dev/challenges/21) | [code](./2021/challenge-21/) |
 
 </details>
 
