@@ -61,24 +61,24 @@ Lo difícil, e importante, es que entiendas que Santa Claus **va entregando y re
 ```js
 export default function canCarry(capacity, trip) {
   let aux = 0;
-  let res = true;
+  let result = true;
   const max = Math.max(...trip.flatMap((el) => [el[1], el[2]])) + 1;
 
   for (let i = 0; i < max; i++) {
     trip.forEach((el) => {
-      const cantidad = el[0];
-      const tomar = el[1];
-      const entrega = el[2];
+      const amount = el[0];
+      const start = el[1];
+      const end = el[2];
 
-      if (cantidad > capacity) return (res = false);
-      if (tomar === i) aux += cantidad;
-      if (entrega === i) aux -= cantidad;
-      if (aux > capacity) return (res = false);
+      if (amount > capacity) return (result = false);
+      if (start === i) aux += amount;
+      if (end === i) aux -= amount;
+      if (aux > capacity) return (result = false);
     });
 
-    if (!res) return res;
+    if (!result) return result;
   }
 
-  return res;
+  return result;
 }
 ```
