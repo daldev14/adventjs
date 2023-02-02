@@ -26,9 +26,9 @@
 | 16  |          🔓 Descifrando los números...          |     🟢     | [show](https://2021.adventjs.dev/challenges/16) | [code](./challenge-16/) |
 | 17  |   La locura de enviar paquetes en esta época    |     🔴     |                                                 |                         |
 | 18  |     💻 El sistema operativo de Santa Claus      |     🟢     | [show](https://2021.adventjs.dev/challenges/18) | [code](./challenge-18/) |
+| 19  |       ¿Qué deberíamos aprender en Platzi?       |     🟠     | [show](https://2021.adventjs.dev/challenges/19) | [code](./challenge-19/) |
 
-<!-- | 19  |                ¿Qué deberíamos aprender en Platzi?                |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
-| 20  |                  ¿Una carta de pangramas? ¡QUÉ!                   |       🟢       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
+<!-- | 20  |                  ¿Una carta de pangramas? ¡QUÉ!                   |       🟢       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 21  |                      La ruta con los regalos                      |       🔴       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 22  |                ¿Cuántos adornos necesita el árbol?                |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos? |       🟣       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
