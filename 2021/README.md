@@ -29,8 +29,8 @@
 | 19  |       ¿Qué deberíamos aprender en Platzi?       |     🟠     | [show](https://2021.adventjs.dev/challenges/19) | [code](./challenge-19/) |
 | 20  |        ✉️ ¿Una carta de pangramas? ¡QUÉ!        |     🟢     | [show](https://2021.adventjs.dev/challenges/20) | [code](./challenge-20/) |
 | 21  |           🛣️ La ruta con los regalos            |     🔴     | [show](https://2021.adventjs.dev/challenges/21) | [code](./challenge-21/) |
+| 22  |     🎄 ¿Cuántos adornos necesita el árbol?      |     🟠     | [show](https://2021.adventjs.dev/challenges/22) | [code](./challenge-22/) |
 
-<!-- | 22  |                ¿Cuántos adornos necesita el árbol?                |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
-| 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos? |       🟣       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
+<!-- | 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos? |       🟣       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 24  |                   Comparando árboles de Navidad                   |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) |
 | 25  |            El último juego y hasta el año que viene 👋            |       🟠       | [show](https://2021.adventjs.dev/challenges/01) | [code](./2021/Challenge-01/) | -->
