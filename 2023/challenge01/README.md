@@ -32,14 +32,7 @@ console.log(firstRepeatedId3) // 5
 ### JavaScript
 
 ```js
-function findFirstRepeated (gifts) {
-  const seen = {}
-
-  for (const id of gifts) {
-    if (seen[id]) return id
-    seen[id] = 1
-  }
-
-  return -1
+function findFirstRepeated(gifts) {
+  return gifts.find((gift, index) => gifts.indexOf(gift) !== index) ?? -1
 }
 ```

@@ -1,3 +1,9 @@
+// 01
+function findFirstRepeated(gifts) {
+  return gifts.find((gift, index) => gifts.indexOf(gift) !== index) ?? -1
+}
+
+// 02
 function findFirstRepeated (gifts) {
   const seen = {}
 
