@@ -1,4 +1,4 @@
-![image](https://github.com/daldev14/adventjs/assets/49620375/efb3b6de-0e4e-44b3-aa5e-71308267b349)
+![image](https://github.com/daldev14/adventjs/assets/49620375/09e896ec-e991-495a-9b90-0774f41de0b4)
 
 # AdventJS Solutions
 
