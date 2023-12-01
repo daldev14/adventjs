@@ -1,3 +1,5 @@
+![image](https://github.com/daldev14/adventjs/assets/49620375/efb3b6de-0e4e-44b3-aa5e-71308267b349)
+
 # AdventJS Solutions
 
 Este repositorio contiene las soluciones a los retos propuestos por [midudev](https://github.com/midudev) en la web [adventJS](https://adventjs.dev/es).
