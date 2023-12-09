@@ -93,6 +93,7 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 |  02   | 🏭 Ponemos en marcha la fábrica  |       🟢        | [show](https://adventjs.dev/es/challenges/2023/2) | [code](./2023/challenge02/) |
 |  03   |       😏 El elfo travieso        |       🟢        | [show](https://adventjs.dev/es/challenges/2023/3) | [code](./2023/challenge03/) |
 |  04   | 😵‍💫 Dale la vuelta al paréntesis |       🟠        | [show](https://adventjs.dev/es/challenges/2023/4) | [code](./2023/challenge04/) |
+|  05   |    🛷 El CyberTruck de Santa     |       🟠        | [show](https://adventjs.dev/es/challenges/2023/5) | [code](./2023/challenge05/) |
 
 </details>
 
