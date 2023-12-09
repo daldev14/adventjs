@@ -94,6 +94,7 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 |  03   |       😏 El elfo travieso        |       🟢        | [show](https://adventjs.dev/es/challenges/2023/3) | [code](./2023/challenge03/) |
 |  04   | 😵‍💫 Dale la vuelta al paréntesis |       🟠        | [show](https://adventjs.dev/es/challenges/2023/4) | [code](./2023/challenge04/) |
 |  05   |    🛷 El CyberTruck de Santa     |       🟠        | [show](https://adventjs.dev/es/challenges/2023/5) | [code](./2023/challenge05/) |
+|  06   |      🦌 Los renos a prueba       |       🟢        | [show](https://adventjs.dev/es/challenges/2023/6) | [code](./2023/challenge06/) |
 
 </details>
 
