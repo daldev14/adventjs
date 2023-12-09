@@ -87,11 +87,12 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 
 ### 🕹️ Challenges
 
-|   #   |           Challenge            | Difficulty[^1] |                    Description                    |          Solution           |
-| :---: | :----------------------------: | :------------: | :-----------------------------------------------: | :-------------------------: |
-|  01   |   🎁 !Primer regalo repetido¡   |       🟢        | [show](https://adventjs.dev/es/challenges/2023/1) | [code](./2023/challenge01/) |
-|  02   | 🏭 Ponemos en marcha la fábrica |       🟢        | [show](https://adventjs.dev/es/challenges/2023/2) | [code](./2023/challenge02/) |
-|  02   |       😏 El elfo travieso       |       🟢        | [show](https://adventjs.dev/es/challenges/2023/3) | [code](./2023/challenge03/) |
+|   #   |            Challenge            | Difficulty[^1] |                    Description                    |          Solution           |
+| :---: | :-----------------------------: | :------------: | :-----------------------------------------------: | :-------------------------: |
+|  01   |   🎁 !Primer regalo repetido¡    |       🟢        | [show](https://adventjs.dev/es/challenges/2023/1) | [code](./2023/challenge01/) |
+|  02   | 🏭 Ponemos en marcha la fábrica  |       🟢        | [show](https://adventjs.dev/es/challenges/2023/2) | [code](./2023/challenge02/) |
+|  03   |       😏 El elfo travieso        |       🟢        | [show](https://adventjs.dev/es/challenges/2023/3) | [code](./2023/challenge03/) |
+|  04   | 😵‍💫 Dale la vuelta al paréntesis |       🟠        | [show](https://adventjs.dev/es/challenges/2023/4) | [code](./2023/challenge04/) |
 
 </details>
 
