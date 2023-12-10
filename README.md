@@ -87,17 +87,18 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 
 ### 🕹️ Challenges
 
-|   #   |            Challenge            | Difficulty[^1] |                    Description                    |          Solution           |
-| :---: | :-----------------------------: | :------------: | :-----------------------------------------------: | :-------------------------: |
-|  01   |   🎁 !Primer regalo repetido¡    |       🟢        | [show](https://adventjs.dev/es/challenges/2023/1) | [code](./2023/challenge01/) |
-|  02   | 🏭 Ponemos en marcha la fábrica  |       🟢        | [show](https://adventjs.dev/es/challenges/2023/2) | [code](./2023/challenge02/) |
-|  03   |       😏 El elfo travieso        |       🟢        | [show](https://adventjs.dev/es/challenges/2023/3) | [code](./2023/challenge03/) |
-|  04   | 😵‍💫 Dale la vuelta al paréntesis |       🟠        | [show](https://adventjs.dev/es/challenges/2023/4) | [code](./2023/challenge04/) |
-|  05   |    🛷 El CyberTruck de Santa     |       🟠        | [show](https://adventjs.dev/es/challenges/2023/5) | [code](./2023/challenge05/) |
-|  06   |      🦌 Los renos a prueba       |       🟢        | [show](https://adventjs.dev/es/challenges/2023/6) | [code](./2023/challenge06/) |
-|  07   |        📦 Las cajas en 3D        |       🟢        | [show](https://adventjs.dev/es/challenges/2023/7) | [code](./2023/challenge07/) |
-|  08   |     🏬 Ordenando el almacén      |       🟠        | [show](https://adventjs.dev/es/challenges/2023/8) | [code](./2023/challenge08/) |
-|  09   |       🚦 Alterna las luces       |       🟢        | [show](https://adventjs.dev/es/challenges/2023/9) | [code](./2023/challenge09/) |
+|   #   |            Challenge            | Difficulty[^1] |                    Description                     |          Solution           |
+| :---: | :-----------------------------: | :------------: | :------------------------------------------------: | :-------------------------: |
+|  01   |   🎁 !Primer regalo repetido¡    |       🟢        | [show](https://adventjs.dev/es/challenges/2023/1)  | [code](./2023/challenge01/) |
+|  02   | 🏭 Ponemos en marcha la fábrica  |       🟢        | [show](https://adventjs.dev/es/challenges/2023/2)  | [code](./2023/challenge02/) |
+|  03   |       😏 El elfo travieso        |       🟢        | [show](https://adventjs.dev/es/challenges/2023/3)  | [code](./2023/challenge03/) |
+|  04   | 😵‍💫 Dale la vuelta al paréntesis |       🟠        | [show](https://adventjs.dev/es/challenges/2023/4)  | [code](./2023/challenge04/) |
+|  05   |    🛷 El CyberTruck de Santa     |       🟠        | [show](https://adventjs.dev/es/challenges/2023/5)  | [code](./2023/challenge05/) |
+|  06   |      🦌 Los renos a prueba       |       🟢        | [show](https://adventjs.dev/es/challenges/2023/6)  | [code](./2023/challenge06/) |
+|  07   |        📦 Las cajas en 3D        |       🟢        | [show](https://adventjs.dev/es/challenges/2023/7)  | [code](./2023/challenge07/) |
+|  08   |     🏬 Ordenando el almacén      |       🟠        | [show](https://adventjs.dev/es/challenges/2023/8)  | [code](./2023/challenge08/) |
+|  09   |       🚦 Alterna las luces       |       🟢        | [show](https://adventjs.dev/es/challenges/2023/9)  | [code](./2023/challenge09/) |
+|  10   |       🚦 Alterna las luces       |       🟢        | [show](https://adventjs.dev/es/challenges/2023/10) | [code](./2023/challenge10/) |
 
 </details>
 
