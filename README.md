@@ -97,6 +97,7 @@ Ver los test en [![replit](https://img.shields.io/badge/replit-0e1525?style=for-
 |  06   |      🦌 Los renos a prueba       |       🟢        | [show](https://adventjs.dev/es/challenges/2023/6) | [code](./2023/challenge06/) |
 |  07   |        📦 Las cajas en 3D        |       🟢        | [show](https://adventjs.dev/es/challenges/2023/7) | [code](./2023/challenge07/) |
 |  08   |     🏬 Ordenando el almacén      |       🟠        | [show](https://adventjs.dev/es/challenges/2023/8) | [code](./2023/challenge08/) |
+|  09   |       🚦 Alterna las luces       |       🟢        | [show](https://adventjs.dev/es/challenges/2023/9) | [code](./2023/challenge09/) |
 
 </details>
 
